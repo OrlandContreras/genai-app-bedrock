@@ -1,17 +1,7 @@
 # Usando Stable Diffusion con Amazon Bedrock
 
----
-
-tags:
-
-- aws
-- cloud
-- bedrock
-
----
-
 Esta aplicación esta basada en el post original:
-(Quickly build Generative AI applications with Amazon Bedrock)[https://community.aws/content/2ddby9SeCKALvSz0CWUtx4Q4fPX/amazon-bedrock-quick-start]
+[Quickly build Generative AI applications with Amazon Bedrock](https://community.aws/content/2ddby9SeCKALvSz0CWUtx4Q4fPX/amazon-bedrock-quick-start)
 
 ## Permisos para Amazon Bedrock
 
