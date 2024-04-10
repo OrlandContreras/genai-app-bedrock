@@ -61,7 +61,7 @@ sd_presets: list = [
     "comic-book",
     "photographic",
     "digital-art",
-    "texture",
+    # "texture",
     "lowpoly",
     "craft-clay",
     "isometric",
